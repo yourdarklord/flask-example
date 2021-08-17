@@ -1,0 +1,6 @@
+#These are all CLI arguments flask will make use of when you run it
+
+#.flaskenv
+FLASK_APP=FlaskTest #set this to be the same as the name you have defined for the application
+FLASK_ENV=development #This will enable all development features including debugging
+FLASK_RUN_PORT=5000 #The port flask will run on
